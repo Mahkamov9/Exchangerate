@@ -3,7 +3,8 @@ function App() {
 
   return (
     <>
-      Exchange Rate
+    <div className="text-[red]"> Salom</div>
+    <p className="font-bold">Salom</p>
     </>
   )
 }
